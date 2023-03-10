@@ -1,5 +1,5 @@
 
-Customized Version
+Customized Version to get no copyright problems with the Telekom.
 
 # T-Pot Attack Map
 
